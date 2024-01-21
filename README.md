@@ -3,9 +3,9 @@
 
 This 2 tier high availability AWS architecture consists of the ec2 instances as the frontend and the RDS database as the backend.
 
-Makes use of Load balancer to balance out the traffic between the instances equally
+Uses Load balancer to balance out the traffic between the instances equally.
 
-Makes use of auto-scaling group to scale up during high traffic and down during low traffic periods.
+Uses auto-scaling group to scale up during high traffic and down during low traffic periods.
 
 
 
